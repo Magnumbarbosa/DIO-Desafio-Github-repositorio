@@ -1,4 +1,4 @@
-# Projeto repositório GIT/GIYHUB
+  1º PROJETO DIO
 Desafio github DIO
 
 Introdução a LÓGICA DE PROGRAMAÇÃO ProfºJuliana Mascarenhas
